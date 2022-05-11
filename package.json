@@ -1,0 +1,29 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.2.0",
+    "glob": "^8.0.1",
+    "module-alias": "^2.2.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.19.0",
+    "sequelize-auto": "^0.8.8",
+    "sequelize-cli": "^6.4.1"
+  },
+  "_moduleAliases": {
+    "@src": "src"
+  }
+}
