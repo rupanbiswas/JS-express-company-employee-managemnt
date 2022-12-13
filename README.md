@@ -4,3 +4,6 @@
 
 ##database credentails to be put in config/connection      not .env
 ##postman and database file are provided in backend repo
+
+
+expressjs , sequelize
